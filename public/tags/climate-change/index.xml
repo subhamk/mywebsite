@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Climate-change on Subham Kailthya</title>
+    <link>/tags/climate-change/</link>
+    <description>Recent content in Climate-change on Subham Kailthya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Subham Kailthya</copyright>
+    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/climate-change/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vulnerability of Households to Weather Shocks and the Mitigating Role of Workfare Programs</title>
+      <link>/publication/weather-stress/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/weather-stress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate Change</title>
+      <link>/project/climate-change/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/project/climate-change/</guid>
+      <description>The impact of climate change on households.</description>
+    </item>
+    
+  </channel>
+</rss>

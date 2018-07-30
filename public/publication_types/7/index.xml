@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 on Subham Kailthya</title>
+    <link>/publication_types/7/</link>
+    <description>Recent content in 7 on Subham Kailthya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Subham Kailthya</copyright>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Road to Productivity: The Effect of Roads on Manufacturing TFP in India</title>
+      <link>/publication/roads-asi/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/roads-asi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developing India&#39;s slums: Informality and exceptionalism vs. formality and rules in public service provision</title>
+      <link>/publication/pol-slums/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pol-slums/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The heterogeneous effect of political competition on government responsiveness in India</title>
+      <link>/publication/pol-health-qr/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pol-health-qr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Political Competition and Government Responsiveness: Evidence from Rural India</title>
+      <link>/publication/pol-health-iv/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/pol-health-iv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

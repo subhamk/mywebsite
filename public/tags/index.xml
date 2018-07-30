@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Subham Kailthya</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Subham Kailthya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Subham Kailthya</copyright>
+    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Climate-change</title>
+      <link>/tags/climate-change/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/climate-change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Firms</title>
+      <link>/tags/firms/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/firms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health</title>
+      <link>/tags/health/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infrastructure</title>
+      <link>/tags/infrastructure/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/infrastructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Political-economics</title>
+      <link>/tags/political-economics/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/political-economics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slums</title>
+      <link>/tags/slums/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/slums/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

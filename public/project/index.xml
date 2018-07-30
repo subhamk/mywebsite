@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Subham Kailthya</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Subham Kailthya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Subham Kailthya</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Climate Change</title>
+      <link>/project/climate-change/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/project/climate-change/</guid>
+      <description>The impact of climate change on households.</description>
+    </item>
+    
+    <item>
+      <title>Firms</title>
+      <link>/project/firms/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/project/firms/</guid>
+      <description>Manufacturing Productivity</description>
+    </item>
+    
+    <item>
+      <title>Political Economics</title>
+      <link>/project/political-economics/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/project/political-economics/</guid>
+      <description>Political Economics of Development</description>
+    </item>
+    
+  </channel>
+</rss>
