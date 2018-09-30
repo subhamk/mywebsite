@@ -28,4 +28,8 @@ math = false
 
 +++
 
-Political Economics of Development
+**How do political-economic factors affect governemnt responsiveness? What explains the heterogeneity in the provision of public goods?**
+
+Governments play an important welfare-enhancing role. In developing countries, public services are often deficient and of poor quality. Why does democracy struggle to ensure the provision of public services in developing countries? To understand this, I examine the relationship between different political-economic factors and government responsiveness at the sub-national level in India.
+
+

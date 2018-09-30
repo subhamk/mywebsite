@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1538264706099.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DECC6A58",
+    "lastKnownWriteTime" : 1532820785,
+    "last_content_update" : 1532820785,
+    "path" : "~/website-sk/setting-up-blowgdown.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "14,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

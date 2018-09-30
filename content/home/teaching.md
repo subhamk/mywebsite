@@ -17,13 +17,10 @@ weight = 60
 
 I am teaching the following courses to postgraduate students in 2018-19:
 
-**Spring term:**
+- Development Economics (ECM171)
+- Microfinance (IDM075)
+- Macroeconomics for Developing Countries (IDM063)
+- Microeconomics for Developing Countries (IDM070)
 
-- ECM171: Development Economics
-- IDM063: Macroeconomics for Developing Countries
-- IDM070: Microeconomics for Developing Countries
 
-**Autumn term:**
-
-- IDM075: Microfinance
 
