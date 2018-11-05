@@ -1,5 +1,5 @@
 +++
-title = "Vulnerability of Households to Weather Shocks and the Mitigating Role of Workfare Programs"
+title = "Income Risks, Weather Shocks and Workfare in India"
 date = 2018-09-01T00:00:00
 draft = false
 
@@ -24,9 +24,9 @@ publication = "*Job Market Paper*."
 publication_short = "*Job Market Paper*"
 
 # Abstract and optional shortened version.
-abstract = "What impact do adverse weather shocks have on household living standards? Using a large household panel survey in India and geo-coded climate data, I find that rainfall shocks lower household income by 6%. Consumption declines by 3%, albeit with a lag, while household debt rises by 51%. Rainfall shocks affect rural households and the asset-poor. It shrinks agricultural and non-agricultural wage incomes and exhibit heterogeneous impact across states. A related policy question is the effectiveness of public safety nets in mitigating weather-induced impact. Using a difference-in-difference strategy and the nationwide roll-out of a public workfare program in India, I find that, participating in the program raises household income by 10% in districts affected by rainfall shocks. Moreover, its impact on female-headed households is nearly five times as large. Thus, by acting as public safety nets, workfare programs can increase climate resilience."
+abstract = "Weather shocks pose significant income risks. Using a large household panel survey in India and geo-coded climate data, I find that rainfall shocks reduce household income by 7%. It lowers consumption and asset-holding, but leads to an increase in household debt. Rainfall shocks predominantly affect the asset-poor and the rural households by reducing agricultural and non-agricultural wage income. Moreover, its impact exhibits significant geographical variations. I then analyse if the roll-out of a major workfare program affected earnings in districts exposed to rainfall shocks. Using a difference-in-difference strategy and the phased roll-out of the program, I find that, it primarily benefits female-headed households. Thus, intensifying workfare programs could increase climate resilience for the most vulnerable population."
 
-abstract_short = "In this article, I examine how variations in rainfall affect household living standards. Utilising a panel survey from India and gridded rainfall data, I find that rainfall shocks lower income by about 6%. It raises household debt by 51%, while consumption declines by 3%, albeit with a lag. Rural households and the asset-poor are most vulnerable to rainfall shocks. As are agricultural and non-agricultural wage income earners. I also examine if public safety nets through workfare programs lower weather-induced income variability. I find that participating in the workfare program increases hosuehold income, with a more pronounced impact on female-headed households."
+abstract_short = "In this paper, I examine how variations in rainfall affect household finance. Utilising a large household panel survey from India and gridded rainfall data, I find that unanticipated rainfall shocks lower income by 7%. It lowers consumption and asset-holding, but leads to an increase in household debt. Moreover, I find that workfare programs hold substantial promise in increasing climate resilience of the most vulnerable population."
 
 # Featured image thumbnail (optional)
 image_preview = ""
