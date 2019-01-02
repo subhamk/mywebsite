@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3352880729",
+    "hash" : "0",
     "id" : "1966F403",
-    "lastKnownWriteTime" : 1538270536,
-    "last_content_update" : 1538270536692,
+    "lastKnownWriteTime" : 1546445742,
+    "last_content_update" : 1546445742533,
     "path" : "~/website-sk/mywebsite/content/publication/roads-asi.md",
     "project_path" : "content/publication/roads-asi.md",
     "properties" : {
-        "cursorPosition" : "43,18",
-        "scrollLine" : "0"
+        "cursorPosition" : "28,413",
+        "scrollLine" : "29"
     },
     "relative_order" : 4,
     "source_on_save" : false,
