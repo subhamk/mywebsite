@@ -13,7 +13,7 @@ title = "Subham Kailthya"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018 Subham Kailthya"
+copyright = "&copy; 2019 Subham Kailthya"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -190,7 +190,8 @@ enableGitInfo = false
     'Book',  # 5
     'Book section',  # 6
     'Working paper', #7
-    'Work in progress' #8
+    'Work in progress', #8
+    'Revise and Resubmit' #9
   ]
 
   # Configuration of publication pages.
@@ -260,6 +261,7 @@ enableGitInfo = false
   #   icon = "cv"
   #   icon_pack = "ai"
   #   link = "files/cv.pdf"
+  # NOTE: change link here for updated cv: C:\Users\subham-lenovo\Documents\website-sk\mywebsite\themes\hugo-academic\layouts\partials\widgets
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the

@@ -21,7 +21,7 @@ publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Working paper*."
-publication_short = "*Working paper*"
+publication_short = "*Working Paper*"
 
 # Abstract and optional shortened version.
 abstract = ""

@@ -1,6 +1,6 @@
 +++
-title = "Developing India's slums: Informality and exceptionalism vs. formality and rules in public service provision"
-date = 2017-12-01T00:00:00
+title = "Top-Down Versus Bottom-Up Strategies for Slum Development: Theory and Evidence from India"
+date = 2018-03-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -21,12 +21,12 @@ publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Working paper*."
-publication_short = "*Working paper*"
+publication_short = "*Working Paper (under review)*"
 
 # Abstract and optional shortened version.
 abstract = ""
 
-abstract_short = "Associational activity increases public provision by galvanising collective action. Yet, majority of discussions on the provision of slum amenities focus on the role of patron-client interactions treating as secondary the local agency of slum dwellers for collective action. In this paper, we examine the relative importance of political competition, associational activity, and slum formalisation (or notification) in securing access to basic amenities in slums. We model local agency by considering a fraction of slums that organize to lobby their interests through slum development associations (SDAs) and make in-kind contributions. Within a probabilistic voting framework, we show that politicians oblige by maximising a weighted sum of average welfare and the demands of organized slums, and distinguish between notified and informal slum status. We take this model to data on Indian slums and find that having a SDA increases the likelihood of public provision for a range of services by 5-11% whereas, the gains from notification is around 14-22%. In contrast, the effect of political competition is relatively muted even after controlling for endogeneity, and surprisingly negative for services with diffuse benefits. Our robustness checks confirm the instrumental role of local agency in slum development that reinforce findings in recent literature."
+abstract_short = "In this paper, we investigate the role of three distinct institutional mechanisms – political competition, community participation and slum formalisation – in affecting public provision in urban slums. We present a theoretical model of electoral redistribution where slum-dwellers exercise their franchise and make in-kind campaign contributions to influence policy using slum associations as conduits. Moreover, notified (or legal) status bestows slums an arbitrary advantage in gaining access to public services, which our model accounts for. We then take the model to data on Indian slums during 2002 and 2008. We find that, after controlling for endogeneity, a one SD increase in political competition leads to a 13% reduction in the likelihood of access to tap water and a 10% decline in underground sewerage, which point towards a lack of political will. In contrast, community participation and slum notification both exert a positive impact, although the effect of notification is more pronounced and consistent. Furthermore, our results hold true across a range of public services as well as synthetic indices of public provision and improvement. The results are robust to several checks."
 
 # Featured image thumbnail (optional)
 image_preview = ""
