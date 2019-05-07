@@ -20,8 +20,8 @@ authors = ["Kailthya S"]
 publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
-publication = "*Job Market Paper*."
-publication_short = "*Job Market Paper (under review)*"
+publication = "In *Working paper*."
+publication_short = "*Working Paper (under review)*"
 
 # Abstract and optional shortened version.
 abstract = "Weather shocks pose significant income risks. Using a large household panel survey in India and geo-coded climate data, I find that rainfall shocks reduce income by 7%. It shrinks consumption and assets while increasing household-debt. Rainfall shocks exhibit significant heterogeneity. It predominantly affects the asset-poor and the rural households who typically rely on agriculture or non-agricultural wage incomes. Its impact also varies geographically. I then examine if the roll-out of a major public workfare program improved earnings of its participants in districts that were exposed to rainfall shocks. Using a difference-in-difference strategy and the phased roll-out of the program, I find that it primarily benefits female-headed households. Thus, intensifying workfare programs could increase climate resilience for the most vulnerable population."
@@ -46,7 +46,7 @@ selected = true
 tags = ["climate-change"]
 
 # Links (optional).
-url_pdf = "./files/weather-stress.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""

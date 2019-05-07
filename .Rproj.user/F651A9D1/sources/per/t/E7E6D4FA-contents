@@ -20,8 +20,8 @@ authors = ["Kailthya S", "Kambhampati U" ]
 publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Working paper*."
-publication_short = "*Working Paper (under review)*"
+publication = "*Job Market Paper*."
+publication_short = "*Job Market Paper (under review)*"
 
 # Abstract and optional shortened version.
 abstract = "Higher road density boosts manufacturing total factor productivity (TFP) by lowering transport costs. We exploit exogenous variation in state-centre partisan alignment that asymmetrically stimulates road building in aligned states for identification. Using panel data on Indian manufacturing firms during 1998-2012, we find that, a marginal increase in road density raises TFP by 8%, on average. Its impact, however, exhibits significant heterogeneity: smaller firms, incumbents and urban-based establishments see most pronounced gains. These results are robust to potential violation of the exclusion restriction for a range of plausible priors, a placebo instrument test, and other sensitivity checks."
@@ -46,7 +46,7 @@ selected = true
 tags = ["infrastructure", "firms", "political-economics"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "./files/roads_tfp.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

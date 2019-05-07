@@ -28,7 +28,7 @@ weight = 5
   year = "June 2008"
 
 [[education.courses]]
-  course = "BSc in Economics"
+  course = "BA in Economics"
   institution = "University of Pune, Fergusson College"
   year = "May 2006"
  
