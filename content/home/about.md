@@ -36,7 +36,7 @@ weight = 5
 
 # About Me
 
-I am a postdoctoral scholar in economics at the University of Reading, UK. My research interests include development economics, political-economics of development, empirical industrial organisation and applied microeconometrics.
+I am a postdoctoral scholar in economics at the [University of Reading](https://www.reading.ac.uk/economics/about/staff/k-subham.aspx), UK. My research interests include development economics, political-economics, empirical industrial organisation and applied microeconometrics.
 
 
 

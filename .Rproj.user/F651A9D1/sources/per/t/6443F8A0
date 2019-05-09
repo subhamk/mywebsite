@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1557439339349.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1380643747",
+    "id" : "6443F8A0",
+    "lastKnownWriteTime" : 1557435920,
+    "last_content_update" : 1557435920,
+    "path" : "~/website-sk/mywebsite/public/styles.css",
+    "project_path" : "public/styles.css",
+    "properties" : {
+        "cursorPosition" : "12,42",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "css"
+}
