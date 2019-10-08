@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570518556435.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2110377174",
+    "id" : "4CF990B",
+    "lastKnownWriteTime" : 1570518701,
+    "last_content_update" : 1570518701817,
+    "path" : "~/website-sk/mywebsite/content/home/teaching.md",
+    "project_path" : "content/home/teaching.md",
+    "properties" : {
+        "cursorPosition" : "26,0",
+        "scrollLine" : "0",
+        "source_window_id" : ""
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

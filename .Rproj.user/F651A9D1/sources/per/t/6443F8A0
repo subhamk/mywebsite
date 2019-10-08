@@ -7,15 +7,18 @@
     "folds" : "",
     "hash" : "1380643747",
     "id" : "6443F8A0",
-    "lastKnownWriteTime" : 1558787006,
-    "last_content_update" : 1558787006,
+    "lastKnownWriteTime" : 1570518745,
+    "last_content_update" : 1570518745,
     "path" : "~/website-sk/mywebsite/public/styles.css",
     "project_path" : "public/styles.css",
     "properties" : {
         "cursorPosition" : "12,42",
         "scrollLine" : "0"
     },
-    "relative_order" : 10,
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "css"

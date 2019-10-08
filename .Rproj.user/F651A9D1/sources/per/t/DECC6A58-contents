@@ -3,8 +3,8 @@
 # date: 28/7/18
 
 install.packages('bookdown')
-blogdown::install_hugo()
-blogdown::update_hugo()
+# blogdown::install_hugo()
+# blogdown::update_hugo()
 blogdown::hugo_version()
 
 getwd()
@@ -12,6 +12,9 @@ setwd("C:/Users/subham-lenovo/Documents/website-sk/my-website")
 # after creating the project folder
 blogdown::new_site(dir = ".",
                    theme = "gcushen/hugo-academic")
+
+blogdown::install_hugo('0.45.1', force = T, use_brew = F)
+
 blogdown::serve_site()
 
 # see:

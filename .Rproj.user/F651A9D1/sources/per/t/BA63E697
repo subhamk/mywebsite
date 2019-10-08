@@ -5,16 +5,19 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "298139864",
+    "hash" : "2967098417",
     "id" : "BA63E697",
-    "lastKnownWriteTime" : 1554927210,
-    "last_content_update" : 1554927210716,
+    "lastKnownWriteTime" : 1570518448,
+    "last_content_update" : 1570518448777,
     "path" : "~/website-sk/mywebsite/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "72,25",
-        "scrollLine" : "0"
+        "cursorPosition" : "239,20",
+        "scrollLine" : "222"
     },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
     "relative_order" : 1,
     "source_on_save" : false,
     "source_window" : "",

@@ -5,17 +5,20 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "4043863703",
+    "hash" : "1669072140",
     "id" : "DECC6A58",
-    "lastKnownWriteTime" : 1532820785,
-    "last_content_update" : 1532820785,
+    "lastKnownWriteTime" : 1570518194,
+    "last_content_update" : 1570518194403,
     "path" : "~/website-sk/setting-up-blowgdown.R",
     "project_path" : null,
     "properties" : {
-        "cursorPosition" : "14,22",
+        "cursorPosition" : "19,0",
         "scrollLine" : "0"
     },
-    "relative_order" : 4,
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_source"

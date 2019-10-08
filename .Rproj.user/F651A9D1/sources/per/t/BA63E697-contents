@@ -64,16 +64,16 @@ enableGitInfo = false
 
   # Your details.
   name = "Subham Kailthya"
-  role = "Postdoctoral Scholar in Economics"
+  role = "Teaching Fellow in Economics"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Reading", url = "https://www.reading.ac.uk/economics/about/staff/k-subham.aspx" } ]
+  organizations = [ { name = "University of Warwick", url = "https://warwick.ac.uk/fac/soc/economics/staff/skailthya/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait-subham.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "k.subham@reading.ac.uk"
-  address = "Edith Morley Building, Room 178 Whiteknights, RG6 6AH, UK"
+  address = "Coventry, UK"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   skype = "subham01"
@@ -233,7 +233,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:k.subham@reading.ac.uk"
+    link = "mailto:Subham.Kailthya@warwick.ac.uk"
 
   [[params.social]]
     icon = "twitter"

@@ -36,7 +36,7 @@ weight = 5
 
 # About Me
 
-I am a postdoctoral scholar in economics at the [University of Reading](https://www.reading.ac.uk/economics/about/staff/k-subham.aspx), UK. My research interests include development economics, political-economics, empirical industrial organisation and applied microeconometrics.
+I am a Teaching Fellow in Economics at the [University of Warwick](https://warwick.ac.uk/fac/soc/economics/staff/skailthya/), UK. I have obtained my Ph.D. in economics from the University of Reading. My research interests include development economics, political-economics, empirical industrial organisation and applied microeconometrics.
 
 
 
