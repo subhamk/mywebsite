@@ -1,9 +1,9 @@
 {
-    "path" : "~/website-sk/mywebsite/content/publication",
-    "sortOrder" : [
+    "path": "~/website-sk/mywebsite/content/publication",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": true
         }
     ]
 }

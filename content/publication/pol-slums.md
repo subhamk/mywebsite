@@ -21,7 +21,7 @@ publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Working paper*."
-publication_short = "*Working Paper (under review)*"
+publication_short = "*Working Paper*"
 
 # Abstract and optional shortened version.
 abstract = "Despite the large number of people living in slums around the world, our understanding of the mechanisms that slum dwellers use to secure access to public services remains incomplete. In this paper, we investigate the extent to which political competition, associational lobbying and top-down slum formalisation affect public provision in urban slums. We present a theoretical model of electoral redistribution where slum dwellers lobby for public services by making in-kind campaign contributions (e.g. by boosting attendance at rallies which mobilizes votes) using slum associations as conduits. We take the model to data on Indian slums which we combine with district-level assembly election results during 2002 and 2008. We find that, after controlling for endogeneity, political competition reduces the likelihood of access to tap-water and sewerage within slums but does not affect other public services, which point towards a lack of political will. In contrast, consistent with our model, both associational lobbying and slum notification positively affect public provision in slums, although the impact of the latter is much more pronounced. Our results are robust to several checks."
