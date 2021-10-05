@@ -19,10 +19,13 @@ setwd("C:/Users/subham-lenovo/Documents/website-sk/my-website")
 # blogdown::config_netlify()
 # file.create(".gitignore")
 
+# to build site locally
 blogdown::serve_site()
 
+# check site for errors
 # blogdown::check_site()
-# 
+
+# build site (creates the public folder)
 blogdown::build_site()
 
 
