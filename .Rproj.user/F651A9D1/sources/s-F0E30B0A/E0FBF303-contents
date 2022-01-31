@@ -4,6 +4,7 @@
 
 # install.packages('bookdown')
 library('bookdown')
+library('here')
 # blogdown::install_hugo()
 # blogdown::update_hugo()
 blogdown::hugo_version()

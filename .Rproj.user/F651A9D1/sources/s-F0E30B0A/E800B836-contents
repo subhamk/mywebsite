@@ -36,7 +36,7 @@ selected = true
 tags = ["Market Integration", "Total Factor Productivity", "Transport Infrastructure", "Manufacturing Industry", "Plant Level Analysis"]
 
 # Links (optional).
-url_pdf = "./files/roads_tfp.pdf"
+url_pdf = "./files/asi_roads_pp.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -48,7 +48,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Link", url = "https://doi.org/10.1016/j.jce.2021.08.001"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false

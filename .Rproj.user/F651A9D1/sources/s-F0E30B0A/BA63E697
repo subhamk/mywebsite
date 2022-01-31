@@ -3,15 +3,15 @@
     "path": "~/website-sk/mywebsite/config.toml",
     "project_path": "config.toml",
     "type": "toml",
-    "hash": "431305995",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1532816780277.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
-        "cursorPosition": "75,23",
-        "scrollLine": "52",
+        "cursorPosition": "186,29",
+        "scrollLine": "161",
         "Source": "Source"
     },
     "folds": "",
