@@ -17,11 +17,11 @@ authors = ["Kailthya S", "Kambhampati U" ]
 # 6 = Book section
 # 7 = Working paper
 # 8 = Work in progress
-publication_types = ["9"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*World Development*"
-publication_short = "*World Development, forthcoming*"
+publication_short = "*World Development*"
 
 # Abstract and optional shortened version.
 abstract = "In this paper, we examine the causal effect of political competition on public provision of healthcare. Specifically, we investigate whether the effect of political competition on more visible public goods (e.g. health centre access) differs from its impact on less visible public goods (e.g. health centre capacity such as doctors, medical supplies, etc.). Using granular data from three recent waves of the Indian District Level Household Survey (DLHS) during 2002-2013 and an instrumental variable approach, we find that incumbents respond to electoral competition, measured as the effective number of parties (ENP), by trading-off less visible health centre capacity for more visible access to health centres. We provide suggestive evidence that focusing on more visible health centres boosts the incumbent party's re-election prospects providing a clear motive for incumbent's action. In addition, we examine the effect of election-year cycles and the role of political alignment in healthcare provision and find compelling evidence of a political economic mechanism at work. By contrast, political competition has no measurable impact on key health outcomes. We conduct several robustness checks to ensure that our estimates are reliable. Thus, our results suggest that electoral competition must be accompanied by strong checks on accountability to improve health outcomes."
@@ -46,8 +46,8 @@ selected = true
 tags = ["Health", "Political Processes", "Economic Development", "State and Local Government"]
 
 # Links (optional).
-url_pdf = "./files/health_panel_pp.pdf"
-url_preprint = ""
+url_pdf = ""
+url_preprint = "./files/health_panel_pp.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -58,7 +58,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Link (ungated)", url = "https://doi.org/10.1016/j.worlddev.2022.105820"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false

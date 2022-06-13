@@ -11,7 +11,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*Journal of Comparative Economics*."
-publication_short = "*Journal of Comparative Economics, forthcoming*"
+publication_short = "*Journal of Comparative Economics*"
 
 # Abstract and optional shortened version.
 abstract = "A denser road network lowers transport costs and stimulates manufacturing total factor productivity (TFP). The placement of roads, however, is likely to be non-random. For identification, we exploit cross-state variation in the strength of centre-state partisan alignment that asymmetrically affects road building in aligned states. Using panel data on manufacturing establishments in India from 1998 to 2012, we find that, a 1% increase in road density raises value-added TFP by about 0.25%, on average. A closer examination reveals that the effect varies by plant characteristics and road type. Younger establishments are more likely to gain from a denser road network with highways playing a prominent role. The results are robust to imperfections in the instrument and to other sensitivity checks."
@@ -36,8 +36,8 @@ selected = true
 tags = ["Market Integration", "Total Factor Productivity", "Transport Infrastructure", "Manufacturing Industry", "Plant Level Analysis"]
 
 # Links (optional).
-url_pdf = "./files/asi_roads_pp.pdf"
-url_preprint = ""
+url_pdf = ""
+url_preprint = "./files/asi_roads_pp.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -48,7 +48,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Link", url = "https://doi.org/10.1016/j.jce.2021.08.001"}]
+url_custom = [{name = "Link (gated)", url = "https://doi.org/10.1016/j.jce.2021.08.001"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false

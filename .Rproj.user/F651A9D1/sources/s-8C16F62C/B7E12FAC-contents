@@ -1,0 +1,43 @@
++++
+# About/Biography widget.
+widget = "about"
+active = true
+date = 2016-04-20T00:00:00
+
+# Order that this section will appear in.
+weight = 5
+
+# List your academic interests.
+[interests]
+  interests = [
+    "Development Economics",
+    "Political Economics",
+    "Empirical IO",
+    "Applied Microeconometrics"
+  ]
+
+# List your qualifications (such as academic degrees).
+[[education.courses]]
+  course = "PhD in Economics"
+  institution = "University of Reading"
+  year = ""
+
+[[education.courses]]
+  course = "MSc in Economics"
+  institution = "Madras School of Economics"
+  year = ""
+
+[[education.courses]]
+  course = "BA in Economics"
+  institution = "University of Pune, Fergusson College"
+  year = ""
+ 
++++
+
+# Hi !
+
+I'm a Teaching Fellow in Economics at the University of Warwick, UK. I have a Ph.D. in economics from the University of Reading, UK. Prior to joining Warwick, I was a post-doctoral research assistant at Reading where I explored the reasons behind differences in firm productivity using micro data.
+
+At Warwick, [(web-page)](https://warwick.ac.uk/fac/soc/economics/staff/skailthya/) I lead the [*EC122: Statistical Techniques A*](https://warwick.ac.uk/fac/soc/economics/current/modules/ec122/) module. I'm also a joint lecturer on the [*EC902: Econometrics A*](https://warwick.ac.uk/fac/soc/economics/current/modules/ec902/) and [*EC976: Econometrics*](https://warwick.ac.uk/fac/soc/economics/current/modules/ec976/) modules. I supervise postgraduate dissertations and undergraduate projects in appliced economics. I also tutor students in *Development Economics (Macroeconomics)* and *Econometrics*.
+
+My research interests lie at the intersection of economics, politics and development. In my recent work, I have examined the role of transportation infrastructure in boosting economic activity using Indian micro data. I have analysed the relationship between political competition and the provision of public goods provision where I examine the role of the visibility (of a public good) as a defining characteristic that affects its provision particularly in the presence of political market frictions. I'm also interested in the impact of climate change on human well-being. In a recent paper, I examine the role of workfare programs as a safety net in mitigating the adverse economic shocks induced by sudden weather variability in India.

@@ -58,7 +58,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Link (gated)", url = "https://doi.org/10.1177/0972266120150207"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
